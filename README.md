@@ -18,5 +18,4 @@ wireframes to visual illustration.
 
 **Design tools**
 
-<img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=figma,ps" /> <img src="https://custom-icon-badges.demolab.com/badge/Canva-00C4CC.svg?logo=canva&logoColor=white" />
